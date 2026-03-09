@@ -1,7 +1,7 @@
-node_modules/
+**/node_modules/
 .dockerfile
 *.log
 .env
-.vscode/
+**/.vscode/
 .DS_Store
 Thumbs.db
