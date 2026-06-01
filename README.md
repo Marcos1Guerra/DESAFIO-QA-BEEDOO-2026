@@ -1,6 +1,6 @@
-# 🚀 Beedoo QA Challenge - Automação de Testes E2E
+# 🚀 Automação de Testes E2E
 
-Este repositório contém a solução desenvolvida para o desafio de QA da **Beedoo**. O foco principal deste projeto é a validação automatizada das funcionalidades de cadastro e listagem de cursos, aplicando práticas modernas de engenharia de software e testes de software.
+O foco principal deste projeto é a validação automatizada das funcionalidades de cadastro e listagem de cursos, aplicando práticas modernas de engenharia de software e testes de software.
 
 ---
 
